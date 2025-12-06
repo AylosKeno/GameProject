@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4cdd58adf40b9419b21c85767dc190, type: 3}
+  m_Name: Case_07
+  m_EditorClassIdentifier: 
+  caseIndex: 0
+  caseSender: Cory Caldeen
+  caseSubject: I find a treasure room
+  caseBody: 'The Case:
+
+    My team and I found this strange, sealed room deep in
+    the mine. The moment the seal was broken, the opening was filled with an absolute
+    unnatural void that shouldn''t exist. I need to get out of this mine alive to
+    be able to provide for my wife and my son, Adrian. Please identify what force
+    we have unleashed.'
+  caseImageOrigin: {fileID: 21300000, guid: 57840713752ea9f4bacf084e37f8684c, type: 3}
+  caseImageAnomaly: {fileID: 21300000, guid: 98ca2519e82f5ac488747dc0468dfce9, type: 3}
+  anomalyType: 0
+  caseBrightness: 38
+  caseContrast: -47
+  isCompleted: 0

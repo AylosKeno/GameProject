@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4cdd58adf40b9419b21c85767dc190, type: 3}
+  m_Name: Case_02
+  m_EditorClassIdentifier: 
+  caseIndex: 2
+  caseSender: Mrs. Kowalski
+  caseSubject: My Weird Window
+  caseBody: 'The Case:
+
+    We just moved into this empty flat in the terrorized
+    district. We took a picture, but upon developing it, we saw that the image in
+    the window is completely wrong. The figure reflected looks unnatural and distorted.
+    We demand to know what this reflected thing is and if our new home is safe.'
+  caseImageOrigin: {fileID: 21300000, guid: 76cfe86f444975940bbb4401fe6b37f7, type: 3}
+  caseImageAnomaly: {fileID: 0}
+  anomalyType: 2
+  caseBrightness: 75
+  caseContrast: -20
+  isCompleted: 0

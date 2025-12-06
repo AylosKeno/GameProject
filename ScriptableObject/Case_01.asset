@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4cdd58adf40b9419b21c85767dc190, type: 3}
+  m_Name: Case_01
+  m_EditorClassIdentifier: 
+  caseIndex: 1
+  caseSender: Ms. Miller
+  caseSubject: Our Family Attic
+  caseBody: 'The Case:
+
+    We live in the area currently affected by the strange
+    happenings. We took a family photo in the attic and noticed this unsettling mass
+    of complete darkness inside our open wardrobe. It was not visible when we took
+    the picture. We are frightened and need you to investigate this residual blackness.'
+  caseImageOrigin: {fileID: 21300000, guid: f778b2fd33bec1447a534f22d0cda5b6, type: 3}
+  caseImageAnomaly: {fileID: 0}
+  anomalyType: 0
+  caseBrightness: 0
+  caseContrast: 0
+  isCompleted: 0

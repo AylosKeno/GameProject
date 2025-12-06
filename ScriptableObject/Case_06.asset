@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4cdd58adf40b9419b21c85767dc190, type: 3}
+  m_Name: Case_06
+  m_EditorClassIdentifier: 
+  caseIndex: 6
+  caseSender: V Bank Corp.
+  caseSubject: Is this even human?
+  caseBody: 'The Case:
+
+    The security guard shown here was confirmed to be on
+    sick leave, yet he is seen waving into the camera. We suspect this is just the
+    guard playing a prank on the company, but the behavior is extremely strange and
+    unprofessional, making us question if there is a more sinister explanation beneath
+    the surface. We need proof this is only a human hoax.'
+  caseImageOrigin: {fileID: 21300000, guid: 2c350719cf8f1df458ccb1e99a9375cb, type: 3}
+  caseImageAnomaly: {fileID: 0}
+  anomalyType: 0
+  caseBrightness: 0
+  caseContrast: 0
+  isCompleted: 0

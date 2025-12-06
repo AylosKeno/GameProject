@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4cdd58adf40b9419b21c85767dc190, type: 3}
+  m_Name: Case_04
+  m_EditorClassIdentifier: 
+  caseIndex: 4
+  caseSender: Alex M.
+  caseSubject: I'm not alone?
+  caseBody: 'The Case:
+
+    During a video call in my apartment in the affected area,
+    the feed started breaking up and showing severe distortion and static. I managed
+    to capture this screenshot. The static seems to be forming a strange, solid shape
+    in the doorway behind me. I need to know if this digital error is just a failure
+    or if something is breaking through the screen.'
+  caseImageOrigin: {fileID: 21300000, guid: fdb9b300128574f4da9dfdf2b70c33cc, type: 3}
+  caseImageAnomaly: {fileID: 0}
+  anomalyType: 0
+  caseBrightness: 0
+  caseContrast: 0
+  isCompleted: 0

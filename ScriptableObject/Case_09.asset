@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4cdd58adf40b9419b21c85767dc190, type: 3}
+  m_Name: Case_09
+  m_EditorClassIdentifier: 
+  caseIndex: 9
+  caseSender: The 0R!9ln
+  caseSubject: Prepare
+  caseBody: 'Evidence:
+
+    I''m Watching, I''m Watching, I''m Watching, I''m Watching,
+    I''m Watching, I''m Watching, I''m Watching, I''m Watching, I''m Watching, I''m
+    Watching, I''m Watching, I''m Watching, I''m Watching, I''m Watching, I''m Watching,
+    I''m Watching, I''m Watching, I''m Watching, I''m Watching, I''m Watching, I''m
+    Watching, I''m Watching, I''m Watching, I''m Watching, I''m Watching, I''m Watching,
+    I''m Watching, I''m Watching, I''m Watching, I''m Watching, I''m Watching, I''m
+    Watching, I''m Watching, I''m Watching, I''m Watching, I''m Watching'
+  caseImageOrigin: {fileID: 21300000, guid: 8bcae51b98173a24ea9f509d4ec3cad5, type: 3}
+  caseImageAnomaly: {fileID: 0}
+  anomalyType: 7
+  caseBrightness: 1
+  caseContrast: 1
+  isCompleted: 0
